@@ -1,0 +1,28 @@
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.exe
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.deps.json
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.runtimeconfig.json
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.runtimeconfig.dev.json
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.dll
+C:\Users\marce\source\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.pdb
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.AssemblyInfo.cs
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.dll
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.pdb
+C:\Users\marce\source\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.genruntimeconfig.cache
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.exe
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.deps.json
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.runtimeconfig.json
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.runtimeconfig.dev.json
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.dll
+D:\Projetos VS 2019\repos\EPAUnibrasil\bin\Debug\netcoreapp3.1\EPAUnibrasil.pdb
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.csproj.AssemblyReference.cache
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.AssemblyInfoInputs.cache
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.AssemblyInfo.cs
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.csproj.CoreCompileInputs.cache
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.dll
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.pdb
+D:\Projetos VS 2019\repos\EPAUnibrasil\obj\Debug\netcoreapp3.1\EPAUnibrasil.genruntimeconfig.cache
